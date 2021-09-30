@@ -3,6 +3,8 @@
 
 I'm currently a student at Pune Institute of Computer Technology. I'm into Web Development, Deep Learning and Android Development.
 
+---
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -18,3 +20,9 @@ I'm currently a student at Pune Institute of Computer Technology. I'm into Web D
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
 </p>
+
+---
+[![](https://github-readme-stats.vercel.app/api?username=vedpatwardhan)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedpatwardhan)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+
