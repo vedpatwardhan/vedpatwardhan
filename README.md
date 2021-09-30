@@ -4,7 +4,6 @@
 I'm currently a student at Pune Institute of Computer Technology. I'm into Web Development, Deep Learning and Android Development
 
 ---
-🧰 Toolbox                                                                                                    
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
