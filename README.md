@@ -6,7 +6,7 @@ I'm currently a student at Pune Institute of Computer Technology. I'm into Web D
 ---
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="C++" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
