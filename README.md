@@ -22,7 +22,6 @@ I'm currently a student at Pune Institute of Computer Technology. I'm into Web D
 </p>
 
 ---
-[![](https://github-readme-stats.vercel.app/api?username=vedpatwardhan)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedpatwardhan)](https://github.com/anuraghazra/github-readme-stats)</p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedpatwardhan&hide_border=true" alt="Streak Stats" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vedpatwardhan" alt="Streak Stats" width="45%"/><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedpatwardhan" alt="Top Languages" width="30%"/>
 
