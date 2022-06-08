@@ -23,7 +23,9 @@ I'm currently a student at Pune Institute of Computer Technology. I'm into Web D
 
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedpatwardhan&hide_border=true&theme=vue-dark" alt="Top Languages" width="30%"/><br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedpatwardhan&hide_border=true&theme=vue-dark" alt="Streak Stats" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vedpatwardhan&hide_border=true&theme=vue-dark" alt="Streak Stats" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedpatwardhan&hide_border=true&theme=monokai" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://activity-graph.herokuapp.com/graph?username=vedpatwardhan&hide_border=true&theme=monokai" width="66%">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedpatwardhan&hide_border=true&theme=monokai" alt="Streak Stats" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vedpatwardhan&hide_border=true&theme=monokai" alt="Streak Stats" width="45%"/>
 </p>
 
