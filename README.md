@@ -21,3 +21,11 @@ I'm currently a student at Pune Institute of Computer Technology. I'm into Web D
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
 </p>
 
+---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedpatwardhan&hide_border=true&theme=nord" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://activity-graph.herokuapp.com/graph?username=vedpatwardhan&hide_border=true&theme=nord" width="66%">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedpatwardhan&hide_border=true&theme=nord" alt="Streak Stats" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vedpatwardhan&hide_border=true&theme=nord" alt="Streak Stats" width="45%"/>
+</p>
+
