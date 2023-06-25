@@ -1,6 +1,6 @@
 ## Ved Patwardhan
 
-### ML Research Engineer at <a href="https://unify.ai" target="_blank">**Ivy**</a>
+<h3>ML Research Engineer at <a href="https://unify.ai" target="_blank">Ivy</a></h3>
 
 ---
 <p align="center">
