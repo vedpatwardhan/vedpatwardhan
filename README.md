@@ -1,6 +1,8 @@
 ## Ved Patwardhan
 
-<b><a href="https://unify.ai" target="_blank">ML Engineer at Unify</a></b>
+<b>ML Engineer @Unify</b>
+<br>
+<b>MSc. MLDS @Imperial</b>
 
 ---
 <p align="center">
