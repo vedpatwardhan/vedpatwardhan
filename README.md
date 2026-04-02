@@ -2,8 +2,6 @@
 
 
 <b>MSc. MLDS @<a href="https://www.imperial.ac.uk/">Imperial</a></b>
-<br>
-<b>Prev - ML Engineer @<a href="https://unify.ai/">Unify</a></b>
 
 ---
 <p align="center">
