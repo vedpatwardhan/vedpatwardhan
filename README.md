@@ -3,7 +3,7 @@
 
 <b>MSc. MLDS @<a href="https://www.imperial.ac.uk/">Imperial</a></b>
 
-<!-- <b>Prev. ML Engineer - Lead @<a href="https://unify.ai/">Unify</a></b> -->
+<b>Prev. ML Engineer - Lead @<a href="https://unify.ai/">Unify</a></b>
 
 ---
 <p align="center">
