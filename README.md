@@ -1,5 +1,6 @@
 ## Ved Patwardhan
 
+<b>AI @<a href="https://www.toptal.com/">Toptal</a></b>
 
 <b>MSc. MLDS @<a href="https://www.imperial.ac.uk/">Imperial</a></b>
 
